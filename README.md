@@ -1,11 +1,11 @@
 # awesome-engineering-blog
 A curated list of awesome engineering blog.
 
-# Blog and Github Repositories 
+# Blog and Github Repositories
 
 ## Companies Blog
 
-|  [A](#a-companies) |
+|  [A](#a-companies) |  [B](#b-companies) |
 |---|---|---|---|---|
 
 
@@ -22,7 +22,7 @@ A curated list of awesome engineering blog.
 ### E Companies
 
 
-#List 
+#List
 - [Quora](https://engineering.quora.com/)
 - [Twitter](https://engineering.twitter.com/)
 - [Facebook](https://www.facebook.com/Engineering)
