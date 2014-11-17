@@ -5,7 +5,7 @@ A curated list of awesome engineering blog.
 
 ## Companies Blog
 
-|  [A](#a-companies) |  [B](#b-companies) |
+|  [A](#a-companies) |  [B](#b-companies) | [C](#c-companies) |
 |---|---|---|---|---|
 
 
