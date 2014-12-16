@@ -17,7 +17,7 @@ A curated list of awesome engineering blog.
 | Alphabet List Of Personal Blog	|
 |---	|---	|---	|---	|---	|---	|---	|---	|
 |  [A](#a-personal) 	|  [B](#b-personal) 	|  [C](#c-personal) 	|  [D](#d-personal) 	|  [E](#e-personal) 	|  [F](#f-personal) 	|  [G](#g-personal)  	|  [H](#h-personal) 	|
-|  [I](#i-personal) 	|  [J](#j-companies) 	|  [K](#k-companies) 	|  [L](#l-companies) 	|  [M](#m-companies) 	|  [N](#n-companies) 	|   [O](#o-companies)	|  [P](#p-companies) 	|
+|  [I](#i-personal) 	|  [J](#j-personal) 	|  [K](#k-companies) 	|  [L](#l-companies) 	|  [M](#m-companies) 	|  [N](#n-companies) 	|   [O](#o-companies)	|  [P](#p-companies) 	|
 |  [Q](#q-companies) 	|  [R](#r-companies) 	|  [S](#s-companies) 	|  [T](#t-companies) 	|  [U](#u-companies) 	|  [V](#v-companies) 	|  [W](#w-companies) 	|  [X](#x-companies) 	|
 |  [Y](#y-companies) 	|  [Z](#z-companies) 	|  [0 - 3](#0-3-companies) 	|  [4 - 6](#4-6-companies) 	|  [7 - 9](#7-9-companies) 	|  [#](##-companies) 	|
 
