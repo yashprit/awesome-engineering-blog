@@ -18,7 +18,7 @@ A curated list of awesome engineering blog.
 |---	|---	|---	|---	|---	|---	|---	|---	|
 |  [A](#a-personal) 	|  [B](#b-personal) 	|  [C](#c-personal) 	|  [D](#d-personal) 	|  [E](#e-personal) 	|  [F](#f-personal) 	|  [G](#g-personal)  	|  [H](#h-personal) 	|
 |  [I](#i-personal) 	|  [J](#j-personal) 	|  [K](#k-personal) 	|  [L](#l-personal) 	|  [M](#m-personal) 	|  [N](#n-personal) 	|   [O](#o-personal)	|  [P](#p-personal) 	|
-|  [Q](#q-personal) 	|  [R](#r-personal) 	|  [S](#s-personal) 	|  [T](#t-personal) 	|  [U](#u-personal) 	|  [V](#v-personal) 	|  [W](#w-personal) 	|  [X](#x-companies) 	|
+|  [Q](#q-personal) 	|  [R](#r-personal) 	|  [S](#s-personal) 	|  [T](#t-personal) 	|  [U](#u-personal) 	|  [V](#v-personal) 	|  [W](#w-personal) 	|  [X](#x-personal) 	|
 |  [Y](#y-companies) 	|  [Z](#z-companies) 	|  [0 - 3](#0-3-companies) 	|  [4 - 6](#4-6-companies) 	|  [7 - 9](#7-9-companies) 	|  [#](##-companies) 	|
 
 ## Popular Blog
