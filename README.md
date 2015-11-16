@@ -239,6 +239,7 @@ A curated list of awesome engineering blog.
 ### L Companies
 
 - [Livechatinc](https://developers.livechatinc.com/blog/)
+- [Linkedin](https://engineering.linkedin.com/)
 
 ### M Companies
 
