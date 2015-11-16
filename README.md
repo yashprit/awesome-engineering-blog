@@ -249,6 +249,8 @@ A curated list of awesome engineering blog.
 
 ### O Companies
 
+- [Oyster](http://tech.oyster.com/)
+
 ### P Companies
 
 - [Pinterest](https://engineering.pinterest.com/)
