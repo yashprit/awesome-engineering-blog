@@ -11,42 +11,42 @@ A curated list of awesome engineering blog.
   </thead>
   <tbody>
     <tr>
-      <td>[A](#a-companies)</td>
-      <td>[B](#b-companies)</td>
-      <td>[C](#c-companies)</td>
-      <td>[D](#d-companies)</td>
-      <td>[E](#e-companies)</td>
-      <td>[F](#f-companies)</td>
-      <td>[G](#g-companies)</td>
-      <td>[H](#h-companies)</td>
+      <td><a href='#a-companies'>A</a></td>
+      <td><a href='#b-companies'>B</a></td>
+      <td><a href='#c-companies'>C</a></td>
+      <td><a href='#d-companies'>D</a></td>
+      <td><a href='#e-companies'>E</a></td>
+      <td><a href='#f-companies'>F</a></td>
+      <td><a href='#g-companies'>G</a></td>
+      <td><a href='#h-companies'>H</a></td>
     </tr>
     <tr>
-      <td>[I](#i-companies)</td>
-      <td>[J](#j-companies)</td>
-      <td>[K](#k-companies)</td>
-      <td>[L](#l-companies)</td>
-      <td>[M](#m-companies)</td>
-      <td>[N](#n-companies)</td>
-      <td>[O](#o-companies)</td>
-      <td>[P](#p-companies)</td>
+      <td><a href='#i-companies'>I</a></td>
+      <td><a href='#j-companies'>J</a></td>
+      <td><a href='#k-companies'>K</a></td>
+      <td><a href='#l-companies'>L</a></td>
+      <td><a href='#m-companies'>M</a></td>
+      <td><a href='#n-companies'>N</a></td>
+      <td><a href='#o-companies'>O</a></td>
+      <td><a href='#p-companies'>P</a></td>
     </tr>
     <tr>
-      <td>[Q](#q-companies)</td>
-      <td>[R](#r-companies)</td>
-      <td>[S](#s-companies)</td>
-      <td>[T](#t-companies)</td>
-      <td>[U](#u-companies)</td>
-      <td>[V](#v-companies)</td>
-      <td>[W](#w-companies)</td>
-      <td>[X](#x-companies)</td>
+      <td><a href='#q-companies'>Q</a></td>
+      <td><a href='#r-companies'>R</a></td>
+      <td><a href='#s-companies'>S</a></td>
+      <td><a href='#t-companies'>T</a></td>
+      <td><a href='#u-companies'>U</a></td>
+      <td><a href='#v-companies'>V</a></td>
+      <td><a href='#w-companies'>W</a></td>
+      <td><a href='#x-companies'>X</a></td>
     </tr>
     <tr>
-      <td>[Y](#y-companies)</td>
-      <td>[Z](#z-companies)</td>
-      <td>[0-2](#0-3-companies)</td>
-      <td>[3-5](#3-5-companies)</td>
-      <td>[6-8](#6-8-companies)</td>
-      <td>[9-&](#9-&-companies)</td>
+      <td><a href='#y-companies'>Y</a></td>
+      <td><a href='#z-companies'>Z</a></td>
+      <td><a href='#0-3-companies>0-2</a></td>
+      <td><a href='#3-5-companies>3-5</a></td>
+      <td><a href='#6-8-companies>6-8</a></td>
+      <td><a href='#9-&-companies>9-&</a></td>
     </tr>
   </tbody>
 </table>
@@ -59,42 +59,42 @@ A curated list of awesome engineering blog.
   </thead>
   <tbody>
     <tr>
-      <td>[A](#a-personal)</td>
-      <td>[B](#b-personal)</td>
-      <td>[C](#c-personal)</td>
-      <td>[D](#d-personal)</td>
-      <td>[E](#e-personal)</td>
-      <td>[F](#f-personal)</td>
-      <td>[G](#g-personal)</td>
-      <td>[H](#h-personal)</td>
+      <td><a href='#a-personal'>A</a></td>
+      <td><a href='#b-personal'>B</a></td>
+      <td><a href='#c-personal'>C</a></td>
+      <td><a href='#d-personal'>D</a></td>
+      <td><a href='#e-personal'>E</a></td>
+      <td><a href='#f-personal'>F</a></td>
+      <td><a href='#g-personal'>G</a></td>
+      <td><a href='#h-personal'>H</a></td>
     </tr>
     <tr>
-      <td>[I](#i-personal)</td>
-      <td>[J](#j-personal)</td>
-      <td>[K](#k-personal)</td>
-      <td>[L](#l-personal)</td>
-      <td>[M](#m-personal)</td>
-      <td>[N](#n-personal)</td>
-      <td>[O](#o-personal)</td>
-      <td>[P](#p-personal)</td>
+      <td><a href='#i-personal'>I</a></td>
+      <td><a href='#j-personal'>J</a></td>
+      <td><a href='#k-personal'>K</a></td>
+      <td><a href='#l-personal'>L</a></td>
+      <td><a href='#m-personal'>M</a></td>
+      <td><a href='#n-personal'>N</a></td>
+      <td><a href='#o-personal'>O</a></td>
+      <td><a href='#p-personal'>P</a></td>
     </tr>
     <tr>
-      <td>[Q](#q-personal)</td>
-      <td>[R](#r-personal)</td>
-      <td>[S](#s-personal)</td>
-      <td>[T](#t-personal)</td>
-      <td>[U](#u-personal)</td>
-      <td>[V](#v-personal)</td>
-      <td>[W](#w-personal)</td>
-      <td>[X](#x-personal)</td>
+      <td><a href='#q-personal'>Q</a></td>
+      <td><a href='#r-personal'>R</a></td>
+      <td><a href='#s-personal'>S</a></td>
+      <td><a href='#t-personal'>T</a></td>
+      <td><a href='#u-personal'>U</a></td>
+      <td><a href='#v-personal'>V</a></td>
+      <td><a href='#w-personal'>W</a></td>
+      <td><a href='#x-personal'>X</a></td>
     </tr>
     <tr>
-      <td>[Y](#y-personal)</td>
-      <td>[Z](#z-personal)</td>
-      <td>[0-2](#0-3-personal)</td>
-      <td>[3-5](#3-5-personal)</td>
-      <td>[6-8](#6-8-personal)</td>
-      <td>[9-&](#9-&-personal)</td>
+      <td><a href='#y-personal'>Y</a></td>
+      <td><a href='#z-personal'>Z</a></td>
+      <td><a href='#0-3-personal>0-2</a></td>
+      <td><a href='#3-5-personal>3-5</a></td>
+      <td><a href='#6-8-personal>6-8</a></td>
+      <td><a href='#9-&-personal>9-&</a></td>
     </tr>
   </tbody>
 </table>
@@ -107,42 +107,42 @@ A curated list of awesome engineering blog.
   </thead>
   <tbody>
     <tr>
-      <td>[A](#a-popular)</td>
-      <td>[B](#b-popular)</td>
-      <td>[C](#c-popular)</td>
-      <td>[D](#d-popular)</td>
-      <td>[E](#e-popular)</td>
-      <td>[F](#f-popular)</td>
-      <td>[G](#g-popular)</td>
-      <td>[H](#h-popular)</td>
+      <td><a href='#a-popular'>A</a></td>
+      <td><a href='#b-popular'>B</a></td>
+      <td><a href='#c-popular'>C</a></td>
+      <td><a href='#d-popular'>D</a></td>
+      <td><a href='#e-popular'>E</a></td>
+      <td><a href='#f-popular'>F</a></td>
+      <td><a href='#g-popular'>G</a></td>
+      <td><a href='#h-popular'>H</a></td>
     </tr>
     <tr>
-      <td>[I](#i-popular)</td>
-      <td>[J](#j-popular)</td>
-      <td>[K](#k-popular)</td>
-      <td>[L](#l-popular)</td>
-      <td>[M](#m-popular)</td>
-      <td>[N](#n-popular)</td>
-      <td>[O](#o-popular)</td>
-      <td>[P](#p-popular)</td>
+      <td><a href='#i-popular'>I</a></td>
+      <td><a href='#j-popular'>J</a></td>
+      <td><a href='#k-popular'>K</a></td>
+      <td><a href='#l-popular'>L</a></td>
+      <td><a href='#m-popular'>M</a></td>
+      <td><a href='#n-popular'>N</a></td>
+      <td><a href='#o-popular'>O</a></td>
+      <td><a href='#p-popular'>P</a></td>
     </tr>
     <tr>
-      <td>[Q](#q-popular)</td>
-      <td>[R](#r-popular)</td>
-      <td>[S](#s-popular)</td>
-      <td>[T](#t-popular)</td>
-      <td>[U](#u-popular)</td>
-      <td>[V](#v-popular)</td>
-      <td>[W](#w-popular)</td>
-      <td>[X](#x-popular)</td>
+      <td><a href='#q-popular'>Q</a></td>
+      <td><a href='#r-popular'>R</a></td>
+      <td><a href='#s-popular'>S</a></td>
+      <td><a href='#t-popular'>T</a></td>
+      <td><a href='#u-popular'>U</a></td>
+      <td><a href='#v-popular'>V</a></td>
+      <td><a href='#w-popular'>W</a></td>
+      <td><a href='#x-popular'>X</a></td>
     </tr>
     <tr>
-      <td>[Y](#y-popular)</td>
-      <td>[Z](#z-popular)</td>
-      <td>[0-2](#0-3-popular)</td>
-      <td>[3-5](#3-5-popular)</td>
-      <td>[6-8](#6-8-popular)</td>
-      <td>[9-&](#9-&-popular)</td>
+      <td><a href='#y-popular'>Y</a></td>
+      <td><a href='#z-popular'>Z</a></td>
+      <td><a href='#0-3-popular>0-2</a></td>
+      <td><a href='#3-5-popular>3-5</a></td>
+      <td><a href='#6-8-popular>6-8</a></td>
+      <td><a href='#9-&-popular>9-&</a></td>
     </tr>
   </tbody>
 </table>
@@ -155,42 +155,42 @@ A curated list of awesome engineering blog.
   </thead>
   <tbody>
     <tr>
-      <td>[A](#a-organization)</td>
-      <td>[B](#b-organization)</td>
-      <td>[C](#c-organization)</td>
-      <td>[D](#d-organization)</td>
-      <td>[E](#e-organization)</td>
-      <td>[F](#f-organization)</td>
-      <td>[G](#g-organization)</td>
-      <td>[H](#h-organization)</td>
+      <td><a href='#a-organization'>A</a></td>
+      <td><a href='#b-organization'>B</a></td>
+      <td><a href='#c-organization'>C</a></td>
+      <td><a href='#d-organization'>D</a></td>
+      <td><a href='#e-organization'>E</a></td>
+      <td><a href='#f-organization'>F</a></td>
+      <td><a href='#g-organization'>G</a></td>
+      <td><a href='#h-organization'>H</a></td>
     </tr>
     <tr>
-      <td>[I](#i-organization)</td>
-      <td>[J](#j-organization)</td>
-      <td>[K](#k-organization)</td>
-      <td>[L](#l-organization)</td>
-      <td>[M](#m-organization)</td>
-      <td>[N](#n-organization)</td>
-      <td>[O](#o-organization)</td>
-      <td>[P](#p-organization)</td>
+      <td><a href='#i-organization'>I</a></td>
+      <td><a href='#j-organization'>J</a></td>
+      <td><a href='#k-organization'>K</a></td>
+      <td><a href='#l-organization'>L</a></td>
+      <td><a href='#m-organization'>M</a></td>
+      <td><a href='#n-organization'>N</a></td>
+      <td><a href='#o-organization'>O</a></td>
+      <td><a href='#p-organization'>P</a></td>
     </tr>
     <tr>
-      <td>[Q](#q-organization)</td>
-      <td>[R](#r-organization)</td>
-      <td>[S](#s-organization)</td>
-      <td>[T](#t-organization)</td>
-      <td>[U](#u-organization)</td>
-      <td>[V](#v-organization)</td>
-      <td>[W](#w-organization)</td>
-      <td>[X](#x-organization)</td>
+      <td><a href='#q-organization'>Q</a></td>
+      <td><a href='#r-organization'>R</a></td>
+      <td><a href='#s-organization'>S</a></td>
+      <td><a href='#t-organization'>T</a></td>
+      <td><a href='#u-organization'>U</a></td>
+      <td><a href='#v-organization'>V</a></td>
+      <td><a href='#w-organization'>W</a></td>
+      <td><a href='#x-organization'>X</a></td>
     </tr>
     <tr>
-      <td>[Y](#y-organization)</td>
-      <td>[Z](#z-organization)</td>
-      <td>[0-2](#0-3-organization)</td>
-      <td>[3-5](#3-5-organization)</td>
-      <td>[6-8](#6-8-organization)</td>
-      <td>[9-&](#9-&-organization)</td>
+      <td><a href='#y-organization'>Y</a></td>
+      <td><a href='#z-organization'>Z</a></td>
+      <td><a href='#0-3-organization>0-2</a></td>
+      <td><a href='#3-5-organization>3-5</a></td>
+      <td><a href='#6-8-organization>6-8</a></td>
+      <td><a href='#9-&-organization>9-&</a></td>
     </tr>
   </tbody>
 </table>
