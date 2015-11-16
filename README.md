@@ -287,3 +287,6 @@ A curated list of awesome engineering blog.
 ### Y Companies
 
 ### Z Companies
+
+### H Popular
+- [Highscalability](http://highscalability.com/)
