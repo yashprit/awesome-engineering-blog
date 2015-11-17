@@ -7,7 +7,7 @@ A curated list of awesome engineering blog.
 
 <table>
   <thead>
-    <td colspan="8">Alphabetical List Of Companies</td>
+    <td colspan="9">Alphabetical List Of Companies</td>
   </thead>
   <tbody>
     <tr>
@@ -41,7 +41,7 @@ A curated list of awesome engineering blog.
       <td><a href='#x-companies'>X</a></td>
       <td><a href='#y-companies'>Y</a></td>
       <td><a href='#z-companies'>Z</a></td>
-      <td><a href='##-companies>#</a></td>
+      <td><a href='##-companies'>#</a></td>
     </tr>
   </tbody>
 </table>
