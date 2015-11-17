@@ -198,6 +198,7 @@ A curated list of awesome engineering blog.
 ### A Companies
 - [Andyet](https://blog.andyet.com/)
 - [Airbnb](http://nerds.airbnb.com/)
+- [Atlassian](https://developer.atlassian.com/blog/)
 
 ### B Companies
 
