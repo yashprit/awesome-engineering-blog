@@ -1,7 +1,7 @@
 # awesome-engineering-blog
 A curated list of awesome engineering blog.
 
-# Blog and Github Repositories
+## Blog and Github Repositories
 
 ## Companies Blog
 
