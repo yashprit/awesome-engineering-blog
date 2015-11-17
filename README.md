@@ -19,9 +19,9 @@ A curated list of awesome engineering blog.
       <td><a href='#f-companies'>F</a></td>
       <td><a href='#g-companies'>G</a></td>
       <td><a href='#h-companies'>H</a></td>
+      <td><a href='#i-companies'>I</a></td>
     </tr>
     <tr>
-      <td><a href='#i-companies'>I</a></td>
       <td><a href='#j-companies'>J</a></td>
       <td><a href='#k-companies'>K</a></td>
       <td><a href='#l-companies'>L</a></td>
@@ -29,24 +29,19 @@ A curated list of awesome engineering blog.
       <td><a href='#n-companies'>N</a></td>
       <td><a href='#o-companies'>O</a></td>
       <td><a href='#p-companies'>P</a></td>
-    </tr>
-    <tr>
       <td><a href='#q-companies'>Q</a></td>
       <td><a href='#r-companies'>R</a></td>
+    </tr>
+    <tr>
       <td><a href='#s-companies'>S</a></td>
       <td><a href='#t-companies'>T</a></td>
       <td><a href='#u-companies'>U</a></td>
       <td><a href='#v-companies'>V</a></td>
       <td><a href='#w-companies'>W</a></td>
       <td><a href='#x-companies'>X</a></td>
-    </tr>
-    <tr>
       <td><a href='#y-companies'>Y</a></td>
       <td><a href='#z-companies'>Z</a></td>
-      <td><a href='#0-3-companies>0-2</a></td>
-      <td><a href='#3-5-companies>3-5</a></td>
-      <td><a href='#6-8-companies>6-8</a></td>
-      <td><a href='#9-&-companies>9-&</a></td>
+      <td><a href='##-companies>#</a></td>
     </tr>
   </tbody>
 </table>
