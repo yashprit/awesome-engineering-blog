@@ -197,6 +197,8 @@ A curated list of awesome engineering blog.
 - [Airpair](https://www.airpair.com/software-experts)
 
 ### B Companies
+- [Box](https://www.box.com/blog/engineering/)
+- [Bittorrent](http://engineering.bittorrent.com/)
 
 ### C Companies
 
