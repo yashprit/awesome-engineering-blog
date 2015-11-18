@@ -235,6 +235,8 @@ A curated list of awesome engineering blog.
 
 ### J Companies
 
+- [Just Eat](http://tech.just-eat.com/)
+
 ### K Companies
 
 ### L Companies
