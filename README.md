@@ -210,6 +210,8 @@ A curated list of awesome engineering blog.
 - [Dropbox](https://blogs.dropbox.com/tech/)
 
 ### E Companies
+- [eBay](http://www.ebaytechblog.com/)
+- [Evernote](https://blog.evernote.com/tech/)
 
 ### F Companies
 
