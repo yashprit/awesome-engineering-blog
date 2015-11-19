@@ -291,6 +291,8 @@ A curated list of awesome engineering blog.
 
 ### Y Companies
 
+- [Yahoo](http://yahooeng.tumblr.com/)
+
 ### Z Companies
 
 ### H Popular
