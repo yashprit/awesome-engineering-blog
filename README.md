@@ -221,6 +221,7 @@ A curated list of awesome engineering blog.
 - [Flickr](http://code.flickr.net/)
 - [Fogcreek](http://blog.fogcreek.com/)
 - [Fiftythree](http://making.fiftythree.com/)
+- [Flipkart](http://tech-blog.flipkart.net/)
 
 ### G Companies
 
