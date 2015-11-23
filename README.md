@@ -285,6 +285,8 @@ A curated list of awesome engineering blog.
 
 ### V Companies
 
+- [Vimeo](http://makingvimeo.com/)
+
 ### W Companies
 
 - [Webengage](http://engineering.webengage.com/)
