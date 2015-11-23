@@ -306,5 +306,7 @@ A curated list of awesome engineering blog.
 
 ### Z Companies
 
+- [Zynga](https://www.zynga.com/blogs/engineering)
+
 ### H Popular
 - [Highscalability](http://highscalability.com/)
