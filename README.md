@@ -298,6 +298,8 @@ A curated list of awesome engineering blog.
 
 ### X Companies
 
+- [Xing](https://devblog.xing.com/)
+
 ### Y Companies
 
 - [Yahoo](http://yahooeng.tumblr.com/)
