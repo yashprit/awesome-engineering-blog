@@ -243,12 +243,16 @@ A curated list of awesome engineering blog.
 
 ### K Companies
 
+- [KhanAcademy](http://engineering.khanacademy.org/)
+
 ### L Companies
 
 - [Livechatinc](https://developers.livechatinc.com/blog/)
 - [Linkedin](https://engineering.linkedin.com/)
 
 ### M Companies
+
+- [Mailchimp](http://devs.mailchimp.com/blog/)
 
 ### N Companies
 
@@ -285,8 +289,11 @@ A curated list of awesome engineering blog.
 - [Twitter](https://engineering.twitter.com/)
 
 ### U Companies
+- [Uber](http://eng.uber.com/)
 
 ### V Companies
+
+- [Vimeo](http://makingvimeo.com/)
 
 ### W Companies
 
@@ -294,11 +301,15 @@ A curated list of awesome engineering blog.
 
 ### X Companies
 
+- [Xing](https://devblog.xing.com/)
+
 ### Y Companies
 
 - [Yahoo](http://yahooeng.tumblr.com/)
 
 ### Z Companies
+
+- [Zynga](https://www.zynga.com/blogs/engineering)
 
 ### H Popular
 - [Highscalability](http://highscalability.com/)
