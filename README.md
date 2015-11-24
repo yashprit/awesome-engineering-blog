@@ -209,6 +209,8 @@ A curated list of awesome engineering blog.
 
 - [Dropbox](https://blogs.dropbox.com/tech/)
 - [DigitalOcean](https://www.digitalocean.com/community/tutorials)
+- [Dailymotion](http://engineering.dailymotion.com/)
+- [Medium](https://medium.com/medium-eng)
 
 ### E Companies
 - [eBay](http://www.ebaytechblog.com/)
@@ -267,6 +269,7 @@ A curated list of awesome engineering blog.
 ### R Companies
 
 - [Reddit](http://www.redditblog.com/)
+- [RedHat](https://developerblog.redhat.com/)
 
 ### S Companies
 
