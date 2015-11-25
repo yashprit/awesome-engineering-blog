@@ -283,6 +283,7 @@ A curated list of awesome engineering blog.
 - [Srcclr](https://blog.srcclr.com/)
 - [Stripe](https://stripe.com/blog)
 - [Smugmug](http://don.blogs.smugmug.com/)
+- [Shopify](https://www.shopify.com/technology)
 
 ### T Companies
 
