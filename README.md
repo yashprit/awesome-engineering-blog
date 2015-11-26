@@ -201,12 +201,10 @@ A curated list of awesome engineering blog.
 - [Bittorrent](http://engineering.bittorrent.com/)
 
 ### C Companies
-
 - [Codeascraft](https://codeascraft.com/)
 - [Crazyengineers](http://www.crazyengineers.com/)
 
 ### D Companies
-
 - [Dropbox](https://blogs.dropbox.com/tech/)
 - [DigitalOcean](https://www.digitalocean.com/community/tutorials)
 - [Dailymotion](http://engineering.dailymotion.com/)
@@ -217,7 +215,6 @@ A curated list of awesome engineering blog.
 - [Evernote](https://blog.evernote.com/tech/)
 
 ### F Companies
-
 - [Facebook](https://www.facebook.com/Engineering)
 - [Foursquare](http://engineering.foursquare.com/)
 - [Flickr](http://code.flickr.net/)
@@ -226,23 +223,18 @@ A curated list of awesome engineering blog.
 - [Flipkart](http://tech-blog.flipkart.net/)
 
 ### G Companies
-
 - [Github](https://github.com/blog/category/engineering)
 
 ### H Companies
-
 - [Heroku](https://engineering.heroku.com/)
 
 ### I Companies
-
 - [Instagram](http://instagram-engineering.tumblr.com/)
 
 ### J Companies
-
 - [Just Eat](http://tech.just-eat.com/)
 
 ### K Companies
-
 - [KhanAcademy](http://engineering.khanacademy.org/)
 
 ### L Companies
@@ -251,32 +243,25 @@ A curated list of awesome engineering blog.
 - [Linkedin](https://engineering.linkedin.com/)
 
 ### M Companies
-
 - [Mailchimp](http://devs.mailchimp.com/blog/)
 
 ### N Companies
-
 - [Netflix](http://techblog.netflix.com/)
 
 ### O Companies
-
 - [Oyster](http://tech.oyster.com/)
 
 ### P Companies
-
 - [Pinterest](https://engineering.pinterest.com/)
 
 ### Q Companies
-
 - [Quora](https://engineering.quora.com/)
 
 ### R Companies
-
 - [Reddit](http://www.redditblog.com/)
 - [RedHat](https://developerblog.redhat.com/)
 
 ### S Companies
-
 - [Simple](https://www.simple.com/engineering)
 - [Squareup](https://corner.squareup.com/)
 - [Soundcloud](https://developers.soundcloud.com/blog/)
