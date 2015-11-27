@@ -299,3 +299,6 @@ A curated list of awesome engineering blog.
 
 ### H Popular
 - [Highscalability](http://highscalability.com/)
+
+### S Popular
+- [SmashingMagazine](http://www.smashingmagazine.com/)
