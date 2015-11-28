@@ -271,18 +271,15 @@ A curated list of awesome engineering blog.
 - [Shopify](https://www.shopify.com/technology)
 
 ### T Companies
-
 - [Twitter](https://engineering.twitter.com/)
 
 ### U Companies
 - [Uber](http://eng.uber.com/)
 
 ### V Companies
-
 - [Vimeo](http://makingvimeo.com/)
 
 ### W Companies
-
 - [Webengage](http://engineering.webengage.com/)
 
 ### X Companies
