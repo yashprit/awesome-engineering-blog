@@ -89,7 +89,7 @@ A curated list of awesome engineering blog.
       <td><a href='#0-3-personal>0-2</a></td>
       <td><a href='#3-5-personal>3-5</a></td>
       <td><a href='#6-8-personal>6-8</a></td>
-      <td><a href='#9-&-personal>9-&</a></td>
+      <td><a href='##-personal>#</a></td>
     </tr>
   </tbody>
 </table>
