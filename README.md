@@ -137,7 +137,7 @@ A curated list of awesome engineering blog.
       <td><a href='#0-3-popular>0-2</a></td>
       <td><a href='#3-5-popular>3-5</a></td>
       <td><a href='#6-8-popular>6-8</a></td>
-      <td><a href='#9-&-popular>9-&</a></td>
+      <td><a href='##-popular>#</a></td>
     </tr>
   </tbody>
 </table>
