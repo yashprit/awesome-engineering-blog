@@ -294,6 +294,9 @@ A curated list of awesome engineering blog.
 
 - [Zynga](https://www.zynga.com/blogs/engineering)
 
+### C Personal
+- [CodeSimplicity](http://www.codesimplicity.com/)
+
 ### H Popular
 - [Highscalability](http://highscalability.com/)
 
