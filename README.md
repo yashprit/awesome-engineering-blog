@@ -297,6 +297,9 @@ A curated list of awesome engineering blog.
 ### C Personal
 - [CodeSimplicity](http://www.codesimplicity.com/)
 
+### J Personal
+- [JoelonSoftware](http://www.joelonsoftware.com/)
+
 ### H Popular
 - [Highscalability](http://highscalability.com/)
 
