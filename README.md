@@ -303,6 +303,9 @@ A curated list of awesome engineering blog.
 ### S Personal
 - [ScottBerkun](http://scottberkun.com/blog/)
 
+### C Popular
+- [CodingHorror](http://blog.codinghorror.com/)
+
 ### H Popular
 - [Highscalability](http://highscalability.com/)
 
