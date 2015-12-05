@@ -300,6 +300,9 @@ A curated list of awesome engineering blog.
 ### J Personal
 - [JoelonSoftware](http://www.joelonsoftware.com/)
 
+### S Personal
+- [ScottBerkun](http://scottberkun.com/blog/)
+
 ### H Popular
 - [Highscalability](http://highscalability.com/)
 
