@@ -307,6 +307,9 @@ A curated list of awesome engineering blog.
 - [ScottBerkun](http://scottberkun.com/blog/)
 - [Scott Hanselman](http://www.hanselman.com/blog/)
 
+### F Popular
+- [Fedecarg](http://blog.fedecarg.com/)
+
 ### C Popular
 - [CodingHorror](http://blog.codinghorror.com/)
 
