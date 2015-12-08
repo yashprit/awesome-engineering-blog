@@ -283,15 +283,12 @@ A curated list of awesome engineering blog.
 - [Webengage](http://engineering.webengage.com/)
 
 ### X Companies
-
 - [Xing](https://devblog.xing.com/)
 
 ### Y Companies
-
 - [Yahoo](http://yahooeng.tumblr.com/)
 
 ### Z Companies
-
 - [Zynga](https://www.zynga.com/blogs/engineering)
 
 ### C Personal
