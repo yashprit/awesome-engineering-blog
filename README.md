@@ -291,11 +291,17 @@ A curated list of awesome engineering blog.
 ### Z Companies
 - [Zynga](https://www.zynga.com/blogs/engineering)
 
+### A Personal
+- [Andy Hunt](http://andy.pragprog.com/)
+
 ### C Personal
 - [CodeSimplicity](http://www.codesimplicity.com/)
 
 ### J Personal
 - [JoelonSoftware](http://www.joelonsoftware.com/)
+
+### P Personal
+- [Paul Graham](http://www.paulgraham.com/articles.html)
 
 ### S Personal
 - [ScottBerkun](http://scottberkun.com/blog/)
