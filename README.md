@@ -296,28 +296,81 @@ A curated list of awesome engineering blog.
 
 ### C Personal
 - [CodeSimplicity](http://www.codesimplicity.com/)
+- [Clarke Ching](http://www.rolls.rocks/ccblog/)
+- [Cédric Beust](http://beust.com/weblog/)
+
+### D Personal
+- [David Walsh](https://davidwalsh.name/)
+- [David Chelimsky](http://blog.davidchelimsky.net/)
+- [Debasish Ghosh](http://debasishg.blogspot.co.uk/)
+
+### E Personal
+- [Eric Sink](http://ericsink.com/)
+- [Eric D. Brown](http://ericbrown.com/blog/)
 
 ### J Personal
 - [JoelonSoftware](http://www.joelonsoftware.com/)
+- [Jason Young](http://www.ytechie.com/)
+- [Jonathan Kohl](http://www.kohl.ca/blog/)
+
+### K Personal
+- [kevin rutherford](http://silkandspinach.net/)
+
+### M Personal
+- [Martin Fowler](http://martinfowler.com/bliki/)
 
 ### P Personal
 - [Paul Graham](http://www.paulgraham.com/articles.html)
+- [Christos Pontikis](http://www.pontikis.net/)
+- [Prag Dave](http://pragdave.me/)
+- [Peteris Krumins](http://www.catonmat.net/)
+
+### R Personal
+- [Rob Walling](http://www.softwarebyrob.com/)
 
 ### S Personal
 - [ScottBerkun](http://scottberkun.com/blog/)
 - [Scott Hanselman](http://www.hanselman.com/blog/)
+- [Sammy Larbi](http://www.codeodor.com/index.cfm)
+- [Swizec Teller](http://swizec.com/blog/)
 
-### D Popular
-- [Dailyjs](http://www.dailyjs.com/)
+### A Popular
+- [Ajaxian](http://ajaxian.com/)
 
-### F Popular
-- [Fedecarg](http://blog.fedecarg.com/)
+### B Popular
+- [Bit Player](http://bit-player.org/)
 
 ### C Popular
 - [CodingHorror](http://blog.codinghorror.com/)
 
+### D Popular
+- [Dailyjs](http://www.dailyjs.com/)
+- [The Daily WTF](http://thedailywtf.com/)
+
+### E Popular
+- [Exampler](http://www.exampler.com/blog/)
+
+### F Popular
+- [Fedecarg](http://blog.fedecarg.com/)
+
 ### H Popular
 - [Highscalability](http://highscalability.com/)
+- [Herding Cats](http://herdingcats.typepad.com/)
+
+### P Popular
+- [ProgrammableWeb](http://www.programmableweb.com/)
+
+### R Popular
+- [Regular Geek](http://regulargeek.com/)
 
 ### S Popular
 - [SmashingMagazine](http://www.smashingmagazine.com/)
+- [Six Revisions](http://sixrevisions.com/)
+- [SecretGeek](http://www.secretgeek.net/)
+
+### U Popular
+- [User Interface Engineering](https://www.uie.com/brainsparks/)
+
+### W Popular
+- [Webappers](http://www.webappers.com/)
+- [Word Aligned](http://wordaligned.org/)
